@@ -1,3 +1,11 @@
+<style>
+
+body {
+    background-color: #000000;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+</style>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Designer-UI/UX-purple?style=for-the-badge&logo=figma&logoColor=white&color=8e44ad" alt="UI/UX Designer" />
 </p>
@@ -42,5 +50,5 @@
 ---
 
 <p align="center" style="color:#a29bfe;">
-  <i>“Design is intelligence made visible.”</i>
+  <i>nisil.liyanage.02@gmai.com</i>
 </p>
