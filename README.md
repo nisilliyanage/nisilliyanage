@@ -42,7 +42,4 @@
 
   <hr style="border-color:#8e44ad;">
 
-  <p align="center" style="color:#a29bfe;">
-    <i>nisil.liyanage.02@gmai.com</i>
-  </p>
 </div>
