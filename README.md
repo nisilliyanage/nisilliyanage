@@ -5,7 +5,7 @@
 
   <h1 align="center" style="color:#8e44ad;">Hi, I'm Nisil 👋</h1>
   <p align="center" style="color:#a29bfe;">
-    <b>A passionate UI/UX engineer from Sri Lanka</b>
+    <b>UI/UX engineer</b>
   </p>
 
   <p align="center">
