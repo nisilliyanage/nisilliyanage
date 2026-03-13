@@ -16,7 +16,6 @@
 
 <br>
 
-![Open to Collaborate](https://img.shields.io/badge/Open%20to%20collaborate-e9d5ff?style=flat-square&labelColor=e9d5ff&color=e9d5ff&logoColor=6d28d9)
 
 ---
 
