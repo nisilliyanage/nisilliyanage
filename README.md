@@ -1,45 +1,45 @@
-<div style="background:#111; padding:32px 0;">
-  <p align="center">
-    <img src="https://img.shields.io/badge/Designer-UI/UX-purple?style=for-the-badge&logo=figma&logoColor=white&color=8e44ad" alt="UI/UX Designer" />
-  </p>
+<div align="center">
 
-  <h1 align="center" style="color:#8e44ad;">Hi, I'm Nisil 👋</h1>
-  <p align="center" style="color:#a29bfe;">
-    <b>UI/UX engineer</b>
-  </p>
+<br>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/-Sri%20Lanka-8e44ad?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/-Open%20to%20collaborate-9b59b6?style=flat-square" alt="Collaborate" />
-  </p>
+<!-- Header Card -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=d8b4fe&height=120&section=header&text=Hi%2C%20I'm%20Nisil%20%F0%9F%91%8B&fontSize=42&fontColor=4c1d95&animation=fadeIn&fontAlignY=55" width="100%"/>
 
-  <hr style="border-color:#8e44ad;">
+<br>
 
-  <h2 align="center" style="color:#8e44ad;">🚀 Languages & Tools</h2>
-  <p align="center">
-    <img src="https://img.shields.io/badge/C-8e44ad?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-9b59b6?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-d2b4ff?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-8e44ad?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-9b59b6?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-d2b4ff?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-8e44ad?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-9b59b6?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/MSSQL-d2b4ff?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  </p>
+**UI / UX Enthusiast**
 
-  <hr style="border-color:#8e44ad;">
 
-  <h2 align="center" style="color:#8e44ad;">⚡️ Connect with me</h2>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/nisil-liyanage" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white&color=8e44ad" alt="LinkedIn" />
-    </a>
-    <a href="mailto:nisil@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-9b59b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<br>
 
-  <hr style="border-color:#8e44ad;">
+![Open to Collaborate](https://img.shields.io/badge/Open%20to%20collaborate-e9d5ff?style=flat-square&labelColor=e9d5ff&color=e9d5ff&logoColor=6d28d9)
+![Figma](https://img.shields.io/badge/figma-e9d5ff?style=flat-square&logo=figma&logoColor=6d28d9)
+![React](https://img.shields.io/badge/react-e9d5ff?style=flat-square&logo=react&logoColor=6d28d9)
+
+---
+
+### Languages & Tools
+
+![C](https://img.shields.io/badge/C-ede9fe?style=for-the-badge&logo=c&logoColor=5b21b6)
+![Java](https://img.shields.io/badge/Java-ede9fe?style=for-the-badge&logo=openjdk&logoColor=5b21b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-ede9fe?style=for-the-badge&logo=javascript&logoColor=5b21b6)
+![PHP](https://img.shields.io/badge/PHP-ede9fe?style=for-the-badge&logo=php&logoColor=5b21b6)
+![Python](https://img.shields.io/badge/Python-ede9fe?style=for-the-badge&logo=python&logoColor=5b21b6)
+![React](https://img.shields.io/badge/React-ede9fe?style=for-the-badge&logo=react&logoColor=5b21b6)
+![CSS3](https://img.shields.io/badge/CSS3-ede9fe?style=for-the-badge&logo=css3&logoColor=5b21b6)
+![HTML5](https://img.shields.io/badge/HTML5-ede9fe?style=for-the-badge&logo=html5&logoColor=5b21b6)
+![MSSQL](https://img.shields.io/badge/MSSQL-ede9fe?style=for-the-badge&logo=microsoftsqlserver&logoColor=5b21b6)
+![Figma](https://img.shields.io/badge/Figma-ede9fe?style=for-the-badge&logo=figma&logoColor=5b21b6)
+
+---
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ede9fe?style=for-the-badge&logo=linkedin&logoColor=5b21b6)](https://www.linkedin.com/in/nisil-liyanage)
+[![Email](https://img.shields.io/badge/Email-ede9fe?style=for-the-badge&logo=gmail&logoColor=5b21b6)](mailto:nisil.liyanage@gmail.com)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=d8b4fe&height=60&section=footer" width="100%"/>
 
 </div>
