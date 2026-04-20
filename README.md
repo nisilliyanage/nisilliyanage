@@ -3,7 +3,7 @@
 <br>
 
 <!-- Header Card -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=d8b4fe&height=120&section=header&text=Hi%2C%20I'm%20Nisil&fontSize=42&fontColor=4c1d95&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=eaeaea&height=120&section=header&text=Hi%2C%20I'm%20Nisil&fontSize=42&fontColor=4c1d95&animation=fadeIn&fontAlignY=55" width="100%"/>
 <br>
 
 **UI / UX Enthusiast**
